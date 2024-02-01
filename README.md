@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**MateuszMurawski/MateuszMurawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science enthusiast and a current student pursuing my master's degree. I completed my bachelor's at UMCS in Lublin, exploring the fascinating world of computer science, and now, I'm continuing my academic journey at the Academy of WIT in Warsaw.
 
-Here are some ideas to get you started:
+#### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Computer science student with a passion for diverse areas.
+- 🌐 From networks and hardware to Linux and Windows Server administration.
+- 🚀 Enthusiastic about AI programming with Python and C++.
+
+#### What I'm Up To
+
+- 🎓 Currently pursuing a master's degree in computer science.
+- 🌐 Exploring the vast realms of computer science.
+- 🖥️ Tinkering with networks, hardware, Linux, Windows Server, and more.
+- 🤖 Developing AI solutions to tackle exciting challenges.
